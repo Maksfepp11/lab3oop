@@ -2,7 +2,6 @@
 #include <cmath> // Для математичних операцій (pow, tan, abs)
 #include <iostream> // Для введення/виведення в консоль
 
-
 EquationSolver::EquationSolver() {}
 EquationSolver::~EquationSolver() {}
 
